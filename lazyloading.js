@@ -1,0 +1,1 @@
+var lazyjs='https://imad047.github.io/file/lazyloading.html';
